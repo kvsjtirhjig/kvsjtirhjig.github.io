@@ -1,7 +1,10 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
+//var urlsToCache = [
+//    '/kvsjtirhjig.github.io/',
+//];
 var urlsToCache = [
-    '/kvsjtirhjig.github.io/',
+    '/',
 ];
 
 // インストール処理
